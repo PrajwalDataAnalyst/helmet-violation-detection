@@ -1,4 +1,4 @@
-Helmet Detection and Number Plate Recognition App
+helmet-violation-detection App
 Overview
 This project is a Streamlit-based web application designed to promote road safety by detecting whether a bike rider is wearing a helmet from an uploaded image. If the rider is not wearing a helmet, the app automatically detects and extracts the bike’s number plate using computer vision and Optical Character Recognition (OCR). It then registers a fine in a MySQL database and notifies the user accordingly.
 

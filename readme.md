@@ -48,7 +48,7 @@ Installation & Setup
 bash
 Copy
 Edit
-git clone https://github.com/prajwal1027/helmet-detection-app.git
+git clone https://github.com/PrajwalDataAnalyst/helmet-violation-detection.git
 cd helmet-detection-app
 2. Setup Python Environment
 Create and activate a virtual environment (optional but recommended):
